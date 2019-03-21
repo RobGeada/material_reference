@@ -1,8 +1,8 @@
 # material_reference
 
-Based on the color schemes from equinusocio's [Sublime Material Theme](https://github.com/equinusocio/material-theme) and ntpeter's [Base16 Material Theme](https://github.com/ntpeters/base16-materialtheme-scheme)
+Based on the color schemes from Mattia Astorino's [Sublime Material Theme](https://github.com/equinusocio/material-theme) and Nate Peterson's [Base16 Material Theme](https://github.com/ntpeters/base16-materialtheme-scheme)
 
-### NTPeters
+### Nate Peterson
 
 | Name | Color |
 |:-:|:--:|
@@ -23,7 +23,7 @@ Based on the color schemes from equinusocio's [Sublime Material Theme](https://g
 | 0E |![#C792EA](https://placehold.it/15/C792EA/000000?text=+) `#C792EA` |
 | 0F |![#FF5370](https://placehold.it/15/FF5370/000000?text=+) `#FF5370` |
 
-### EquinoSocio
+### Mattia Astorino 
 | Color      | Default / Lighter |  Darker    |
 |:-:|:--:|:--:|
 | Red | ![#FF5370](https://placehold.it/15/FF5370/000000?text=+) `#FF5370` | ![#E53935](https://placehold.it/15/E53935/000000?text=+) `#E53935` |
