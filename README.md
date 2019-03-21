@@ -4,7 +4,7 @@ Color reference sheet based on the color schemes from Mattia Astorino's [Sublime
 
 ### Nate Peterson
 
-| Name | Base Color | Name | Accent Color |
+| Base | Color | Accent | Color |
 |:-:|:--:|:-:|:--:|
 | 00 |![#263238](https://placehold.it/45x15/263238/000000?text=+) `#263238` | 08 |![#F07178](https://placehold.it/45x15/F07178/000000?text=+) `#F07178` |
 | 01 |![#2E3C43](https://placehold.it/45x15/2E3C43/000000?text=+) `#2E3C43` | 09 |![#F78C6C](https://placehold.it/45x15/F78C6C/000000?text=+) `#F78C6C` |
