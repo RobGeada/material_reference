@@ -25,6 +25,7 @@ Based on the color schemes from equinusocio's [Sublime Material Theme](https://g
 
 ### EquinoSocio
 Color      | Default / Lighter |  Darker    |
+|:-:|:--:|
 | Red | ![#FF5370](https://placehold.it/15/FF5370/000000?text=+) `#FF5370 | ![#E53935](https://placehold.it/15/E53935/000000?text=+) `#E53935 |
 | Pink | ![#F07178](https://placehold.it/15/F07178/000000?text=+) `#F07178 | ![#FF5370](https://placehold.it/15/FF5370/000000?text=+) `#FF5370 |
 | Orange | ![#F78C6C](https://placehold.it/15/F78C6C/000000?text=+) `#F78C6C | ![#F76D47](https://placehold.it/15/F76D47/000000?text=+) `#F76D47 |
