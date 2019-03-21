@@ -4,8 +4,8 @@ Based on the color schemes from equinusocio's [Sublime Material Theme](https://g
 
 ### NTPeters
 
-| base00 |![#263238](https://placehold.it/15/263238/000000?text=+) `#263238` |
 |:-:|:--:|
+| base00 |![#263238](https://placehold.it/15/263238/000000?text=+) `#263238` |
 | base01 |![#2E3C43](https://placehold.it/15/2E3C43/000000?text=+) `#2E3C43` |
 | base02 |![#314549](https://placehold.it/15/314549/000000?text=+) `#314549` |
 | base03 |![#546E7A](https://placehold.it/15/546E7A/000000?text=+) `#546E7A` |
