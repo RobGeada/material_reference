@@ -1,6 +1,6 @@
 # material_reference
 
-Based on the color schemes from Mattia Astorino's [Sublime Material Theme](https://github.com/equinusocio/material-theme) and Nate Peterson's [Base16 Material Theme](https://github.com/ntpeters/base16-materialtheme-scheme)
+Color reference sheet based on the color schemes from Mattia Astorino's [Sublime Material Theme](https://github.com/equinusocio/material-theme) and Nate Peterson's [Base16 Material Theme](https://github.com/ntpeters/base16-materialtheme-scheme)
 
 ### Nate Peterson
 
