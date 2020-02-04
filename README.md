@@ -26,6 +26,6 @@ Color reference sheet based on the color schemes from Mattia Astorino's [Sublime
 |PaleBlue| ![#B2CCD6](https://place-hold.it/45x15/B2CCD6/000000?text=+) `#B2CCD6` | ![#8796B0](https://place-hold.it/45x15/8796B0/000000?text=+) `#8796B0` |
 | Cyan   | ![#89DDFF](https://place-hold.it/45x15/89DDFF/000000?text=+) `#89DDFF` | ![#39ADB5](https://place-hold.it/45x15/39ADB5/000000?text=+) `#39ADB5` |
 | Blue   | ![#82AAFF](https://place-hold.it/45x15/82AAFF/000000?text=+) `#82AAFF` | ![#6182B8](https://place-hold.it/45x15/6182B8/000000?text=+) `#6182B8` |
-| Purple | ![#C792EA](https://place-hold.it/45x15/C792EA/000000?text=+) `#C792EA` | ![#7C4DFF](https://plac-ehold.it/45x15/7C4DFF/000000?text=+) `#7C4DFF` |
+| Purple | ![#C792EA](https://place-hold.it/45x15/C792EA/000000?text=+) `#C792EA` | ![#7C4DFF](https://place-hold.it/45x15/7C4DFF/000000?text=+) `#7C4DFF` |
 | Violet | ![#BB80B3](https://place-hold.it/45x15/BB80B3/000000?text=+) `#BB80B3` | ![#945EB8](https://place-hold.it/45x15/945EB8/000000?text=+) `#945EB8` |
 | Brown  | ![#AB7967](https://place-hold.it/45x15/AB7967/000000?text=+) `#AB7967` | ![#AB7967](https://place-hold.it/45x15/AB7967/000000?text=+) `#AB7967` |
